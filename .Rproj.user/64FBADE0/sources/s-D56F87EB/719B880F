@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600609559179.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "719B880F",
+    "lastKnownWriteTime" : 1600609802,
+    "last_content_update" : 1600609802253,
+    "path" : "C:/Users/newdi/Desktop/chache_matix/cache_matrix.R",
+    "project_path" : "cache_matrix.R",
+    "properties" : {
+        "cursorPosition" : "19,46",
+        "scrollLine" : "5",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
